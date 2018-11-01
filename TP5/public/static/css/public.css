@@ -1,0 +1,43 @@
+
+.warp{
+    width: 1200px;
+    margin: 0 auto;
+}
+.pull-right{
+    float: right;
+}
+.fg{
+    border-top:1px dashed #cf101c;
+}
+.clearFix{
+    clear:both;zoom: 1;content: '';
+    overflow: hidden;
+}
+.cf_back{
+    background-color: #cf101c;
+}
+.cf_color{
+    color:#cf101c;
+}
+.color_red{}
+.margin_top{
+    margin-top: 30px;
+}
+.title_right i{
+    font-style: normal;
+    color:#cf101c;
+}
+.title_right b{
+    padding: 2px 5px;
+    border: 1px solid #cf101c;
+    color: #cf101c;
+    border-radius: 8px;
+    font-weight: normal;
+    font-size: 12px;
+}
+.padding_bottom{
+    padding:10px 0;
+}
+
+
+

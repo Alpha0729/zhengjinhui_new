@@ -1,0 +1,24 @@
+.pull-right li a{
+    transition: all .3s;
+}
+.active a{
+    border-bottom:2px solid #cf101c;
+    color:#cf101c;
+}
+.pull-right li:hover{
+    border-bottom:2px solid #cf101c;
+}
+.pull-right li a:hover{
+    color:#cf101c;
+}
+.special_all li{
+    /*box-shadow: 3px 3px 3px #000;*/
+    position: relative;
+    top: 0;
+    transition:.5s all;
+}
+.special_all li:hover{
+    position: relative;
+    top: -5px;
+    box-shadow:5px 5px 18px 0 #666;
+}

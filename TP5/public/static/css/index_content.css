@@ -1,0 +1,141 @@
+.index_content{
+    overflow: hidden;
+}
+.layui-carousel img{
+    width: 100%;
+    height: 100%;
+}
+.layui-carousel-arrow{
+    width: 80px;
+    height: 80px;
+    font-size:30px;
+}
+.special{text-align: center;}
+.special .title_h4{
+    font-size:40px;
+    text-align: center;
+    padding:20px 0;
+}
+.special img{
+    text-align: center;
+}
+.special p{
+    color:#666;
+    padding:20px 0 40px;
+}
+.special_all{
+    width: 1245px;
+}
+.special_all li{
+    float: left;
+    width:370px;
+    margin: 0px 25px 10px 0;
+    padding:10px;
+}
+.special_all li img{
+    width:100%;
+}
+.special_all li div h2{
+    padding:10px 0;
+    color:#444;
+}
+.special_all li div small{
+    display: inline-block;
+    color:#666;
+    text-indent: 2em;
+    height: 45px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.tow{
+    background-color: #f1f1f1;
+    padding-bottom:20px;:
+  /*  background: url("../images/back.png");*/
+
+}
+.tow .tow_bottom{
+    text-align: center;
+}
+.tow .tow_bottom img{
+    padding:0 0 20px 0;
+}
+.three_bottom{}
+.three_bottom img{
+
+    width:180px;
+}
+.three_bottom div{
+    padding:0 10px;
+}
+.three_bottom div h4{
+    color:#444;
+    font-size: 16px;
+}
+.three_bottom div p{
+    font-size:13px;
+    color:#666;
+    padding:10px 0;
+}
+.three_bottom div .icon_border{
+    background-color: #eee;
+}
+.three_bottom div{
+    height: 231px;
+    overflow: hidden;
+}
+.three_bottom div .icon_border{
+    position: absolute;
+    bottom: 5px;
+}
+.three_bottom div .icon_border i{
+    color:#cf101c;
+}
+
+.four{
+    margin-top: 20px;
+    background-color: #f1f1f1;
+
+}
+
+.four .four_back .title_p{
+    color:#000;
+    font-weight:bold;
+}
+.four .four_bottom{
+    padding:20px 0 40px;
+}
+.four .four_bottom h4{
+    font-size:16px;
+    color:#444;
+    padding:10px 0;
+}
+.four .four_bottom .layui-col-md6{
+    padding:0 20px;
+}
+.four .four_bottom .layui-col-md6 p{
+    font-size:12px;
+    color: #666666;
+    line-height: 20px;
+}
+
+.five{
+   background: url("../images/five_back.jpg") 100%;
+}
+.five .title_p,.five .title_h4{
+    color:#fff;
+}
+
+.five .five_bottom h4{
+    font-size:18px;
+    padding:10px 0;
+
+}
+.five .five_bottom p{
+    line-height: 28px;
+    font-size:14px;
+    color:#444;
+}

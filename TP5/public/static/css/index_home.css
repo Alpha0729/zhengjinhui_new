@@ -1,0 +1,251 @@
+.margin_top {
+    margin-top: 30px;
+}
+
+.margin_top h2 small {
+    float: right;
+    font-size: 14px;
+    padding-right: 20px;
+}
+
+.margin_top h2 small a {
+    color: #333;
+}
+
+.margin_top h2 small a:hover {
+    color: #cf101c;
+}
+
+.margin_top .border_left {
+    border-left: 3px solid #cf101c;
+    padding-left: 10px;
+    font-size: 24px;
+}
+
+.ipo .zj_ipo {
+    padding: 10px 10px 0 0;
+}
+
+.ipo .zj_ipo .ipo_padding {
+    border-radius: 8px;
+    padding: 10px 10px;
+    border: 2px solid #bbb;
+    background-color: #f4f4f4;
+    box-shadow: 0px 0px 18px 1px #ccc;
+    transition: .3s all;
+}
+
+.ipo .zj_ipo .ipo_padding:hover {
+    box-shadow: 0px 0px 18px 5px #ccc;
+}
+
+.ipo .zj_ipo h3 {
+    color: #333;
+    font-size: 20px;
+    height: 28px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.ipo .zj_ipo h3:hover {
+    color: #000;
+}
+
+.ipo .zj_ipo .ipo_padding div .title_right {
+    float: right;
+}
+
+.ipo .zj_ipo .ipo_padding .ipo_margin {
+    margin-top: 14px;
+    color: #999;
+}
+
+.ipo .zj_ipo .ipo_padding .ipo_margin small {
+    float: right;
+}
+
+.ipo .zj_ipo .ipo_padding div {
+    font-size: 14px;
+    color: #444
+}
+
+.ipo .zj_ipo h3 small {
+    font-size: 70%;
+}
+
+.margin_top .layui-tab-title ul li {
+    overflow: hidden;
+    cursor: pointer;
+    transition: .3s all;
+    text-align: center;
+    color: #cf101c;
+}
+
+.margin_top ul {
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.margin_top ul .layui-col-md2 {
+    background-color: #bbb;
+    border-radius: 5px;
+}
+
+.margin_top ul .layui-col-md2:hover {
+    background-color: #cc0001;
+    color: #fff;
+}
+
+.margin_top ul li div {
+
+}
+
+.row_back {
+
+}
+
+.h4_title {
+    padding: 10px 0;
+}
+
+.padding_tb {
+    padding: 20px 0;
+    background-color: #f4f4f4;
+}
+
+.margin_top .active_btn {
+
+}
+
+.margin_top ul li div:hover {
+
+}
+
+/*layui内部样式修改*/
+.layui-tab {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+.layui-tab-card {
+    overflow: hidden;
+}
+
+.layui-tab-title {
+    height: inherit;
+}
+
+.layui-tab-card > .layui-tab-title {
+    margin-left: -2px;
+    background-color: #fff;
+    border: none;
+}
+
+.layui-tab-card > .layui-tab-title .layui-this {
+    background-color: #cc0001;
+}
+
+.layui-tab-card > .layui-tab-title .layui-this div {
+    color: #fff;
+}
+
+.layui-tab-title .layui-this:after {
+    border: none;
+    height: inherit;
+}
+
+.layui-tab-card > .layui-tab-title li {
+    margin: 0;
+    border-left: 2px solid #fff;
+}
+
+.layui-tab-title li {
+
+    padding: 8px 0;
+    font-size: 16px;
+}
+
+/*tab内容修改*/
+.layui-tab-item .layui-col-md3 {
+    padding: 0 5px;
+}
+
+.layui-tab-content {
+    height: 400px;
+}
+
+/*------这是分隔线-------*/
+.news div img {
+    width: 240px;
+    height: 300px;
+    overflow:hidden;
+}
+.news div img {
+    background-color: #ccc;
+}
+.news .news_one{
+    width: 240px;
+    height: 300px;
+    overflow:hidden;
+}
+.news .news_one .text_content {
+    width: 220px;
+    height: 120px;
+    overflow: hidden;
+    padding: 10px;
+    font-size: 12px;
+    background-color: #333333;
+    color:#fff;
+    transition: .3s all;
+    display: none;
+}
+.news .news_one:hover .text_content{
+    opacity: 0.8;
+    display: block;
+    position: absolute;
+    left:0;
+    bottom:0;
+}
+.news .news_list li{
+    margin-top: 20px;
+    height: 20px;
+    overflow: hidden;
+
+}
+.news .news_list li a{
+    height: 20px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+.news .news_list li a i{
+    color:#999;
+}
+.news .news_list li a:hover i{
+    color:#cf101c;
+}
+.news .news_list li a:hover{
+    color:#cf101c;
+}
+.news .news_list .time-float{
+    float: right;
+    color:#666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

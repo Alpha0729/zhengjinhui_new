@@ -1,0 +1,24 @@
+.gps{
+    font-size:14px;
+    text-align: right;
+    color:#999;
+}
+.gps a{
+    color:#999;
+}
+.fund_warp{
+    background-color: #fff;
+}
+.fund .ipo_all{
+    padding:20px 10px;
+}
+.fund .ipo_all .title_right{
+    padding: 20px 0;
+    font-size:18px;
+    color:#666;
+}
+.fund .ipo_all .title_bottom{
+    color:#666;
+    font-size:16px;
+
+}

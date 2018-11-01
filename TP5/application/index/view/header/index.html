@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="__ICON__/web_log.png">
+<link rel="stylesheet" href="__LAYUI_CSS__">
+<link rel="stylesheet" href="__CSS__/hover.css">
+<link rel="stylesheet" href="__CSS__/header.css">
+<link rel="stylesheet" href="__CSS__/public.css">
+<!--头部主体-->
+<div class="title">
+    <h1 class="warp">正金汇商学院欢迎您！</h1>
+</div>
+<div class="header warp clearfix">
+    <h1><small>正金汇商学院，正金汇学院，正金汇首页</small></h1>
+    <ul class="pull-right nav_list" id="nav_list">
+        <li class="active"><a href="{:url('html/add')}">首 页</a></li>
+        <li {if !empty($cat)}class="active"{/if}><a href="{:url('index/index',array('nav_cat'=>'school'))}">学院介绍</a></li>
+        <li><a href="{:url('html/fund')}">私募基金</a></li>
+        <li><a href=":;">学院介绍</a></li>
+        <li><a href=":;">学院介绍</a></li>
+        <li><a href=":;">学院介绍</a></li>
+        <li><a href=":;">学院介绍</a></li>
+    </ul>
+</div>
+<!--头部主体-->
+<script src="__LAYUI_JS__"></script>
+<script>
+    var nav=document.getElementById('nav_list');
+    var aLi=nav.getElementsByTagName('li');
+    for(var i=0;i<aLi.length;i++){
+        aLi[i].onclick=function () {
+            this.className='active';
+        };
+    }
+</script>
