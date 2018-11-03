@@ -12,6 +12,7 @@
 .fund .ipo_all{
     padding:20px 10px;
 }
+
 .fund .ipo_all .title_right{
     padding: 20px 0;
     font-size:18px;
@@ -22,3 +23,45 @@
     font-size:16px;
 
 }
+.fund .ipo_all .ipo_small{
+    font-size:12px;
+    color:#999;
+    float: right;
+}
+.fund .ipo_lore{
+    color:#444;
+}
+.fund .ipo_lore h4{
+    padding:10px 0;
+}
+.fund .ipo_lore p{
+    font-size:12px;
+    font-family:'微软雅黑'
+}
+/*核心优势*/
+.fund .fund_core{
+    background-color: #f4f4f4;
+
+}
+.fund .fund_core .warp{
+    background-color: #fff;
+}
+.fund .fund_core .layui-card .layui-card-header{
+    text-align: center;
+    font-size:18px;
+}
+.fund .fund_core .layui-card .layui-card-body{
+    font-size:12px;
+    height: 130px;
+}
+.fund .layui-btn{
+    background-color: #cf101c;
+}
+
+
+
+
+
+
+
+

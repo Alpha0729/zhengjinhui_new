@@ -1,0 +1,2325 @@
+---------------------------------------------------------------
+[ 2018-11-03T09:11:44+08:00 ] 0.0.0.0 GET /
+[ info ] localhost/ [运行时间：0.313018s][吞吐率：3.19req/s] [内存消耗：1,107.08kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:12:10+08:00 ] 0.0.0.0 GET /
+[ info ] localhost/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,107.38kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:12:48+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,106.70kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:12:57+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,108.24kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:13:04+08:00 ] 0.0.0.0 GET /
+[ info ] localhost/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,107.13kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:13:45+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,117.91kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:28:34+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.118007s][吞吐率：8.47req/s] [内存消耗：1,260.26kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:30:58+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,260.44kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:32:46+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,260.48kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:32:57+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：1,260.47kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:04+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,260.46kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:23+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.020002s][吞吐率：50.00req/s] [内存消耗：1,260.48kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:25+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.34kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:27+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.34kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:28+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.34kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:33:32+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.19kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:35:03+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.19kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:35:04+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.34kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T09:52:17+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：1,118.11kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T11:18:46+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：1,117.96kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T12:35:27+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：1,107.14kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T12:35:32+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.020002s][吞吐率：50.00req/s] [内存消耗：1,108.24kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T12:35:38+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,117.91kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T12:35:46+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,117.90kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T12:37:46+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.021002s][吞吐率：47.61req/s] [内存消耗：1,108.27kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T13:48:13+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.021002s][吞吐率：47.61req/s] [内存消耗：1,107.21kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T13:48:35+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,108.24kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T13:48:48+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,117.91kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:09:44+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.085005s][吞吐率：11.76req/s] [内存消耗：1,260.27kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:10:14+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,260.44kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:10:16+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.23kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:11:56+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,107.11kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:12:17+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,107.37kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:12:20+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,107.47kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:12:26+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,117.92kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:12:42+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,108.24kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:12:55+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,117.93kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:13:19+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,260.66kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:13:42+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,117.94kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:09+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021002s][吞吐率：47.61req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:16+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:28+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：1,118.08kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:48+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:49+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.22kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:55+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.016000s][吞吐率：62.50req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:57+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.22kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:57+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：1,118.22kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:16:57+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017000s][吞吐率：58.82req/s] [内存消耗：1,118.22kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:17:25+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:17:34+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:18:41+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:18:43+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.22kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:18:53+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:18:59+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:05+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:10+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:22+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017000s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:31+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:48+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:19:56+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:20:15+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:20:44+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:20:59+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:07+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:14+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:19+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:30+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:38+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:49+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:21:59+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:22:07+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:22:29+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:23:08+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:23:23+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,118.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T14:36:52+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,118.08kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
