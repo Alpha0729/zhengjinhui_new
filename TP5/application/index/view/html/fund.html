@@ -236,29 +236,13 @@
             </ul>
         </div>
     </div>
-    <button class="layui-btn layui-btn-sm" id="today"></button>
+
 </div>
 
 {include file="footer/index"}
 </body>
 </html>
 <script>
-    function time() {
-        var today=document.getElementById('today');
-        var oDate=new Date();
-        var oF=oDate.getFullYear();
-        var oH=oDate.getHours();
-        var oT=oDate.getMinutes();
-        var oS=oDate.getSeconds();
-        if (oS<10){
-            today.innerHTML="北京时间："+oF+"年"+oH+"点"+oT+'分'+'0'+oS+"秒";
-        }else {
-            today.innerHTML="北京时间："+oF+"年"+oH+"点"+oT+'分'+oS+"秒";
-        }
-    }
-    time();
-    setInterval(function () {
-        time();
-    },800);
+
     console.log('%c 你不小心按了一下F12，再按一下消失！另则是故意在偷看代码！','color:#f00;')
 </script>

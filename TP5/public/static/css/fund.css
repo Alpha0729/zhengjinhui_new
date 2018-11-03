@@ -1,11 +1,4 @@
-.gps{
-    font-size:14px;
-    text-align: right;
-    color:#999;
-}
-.gps a{
-    color:#999;
-}
+
 .fund_warp{
     background-color: #fff;
 }
@@ -54,9 +47,7 @@
     font-size:12px;
     height: 130px;
 }
-.fund .layui-btn{
-    background-color: #cf101c;
-}
+
 
 
 

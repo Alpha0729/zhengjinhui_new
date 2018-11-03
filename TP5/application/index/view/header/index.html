@@ -11,15 +11,35 @@
     <h1><small>正金汇商学院，正金汇学院，正金汇首页</small></h1>
     <ul class="pull-right nav_list" id="nav_list">
         <li class="active"><a href="{:url('html/add')}">首 页</a></li>
-        <li {if !empty($cat)}class="active"{/if}><a href="{:url('index/index',array('nav_cat'=>'school'))}">学院介绍</a></li>
+        <li><a href="{:url('index/index')}">学院介绍</a></li>
         <li><a href="{:url('html/fund')}">私募基金</a></li>
-        <li><a href=":;">学院介绍</a></li>
+        <li><a href="{:url('html/teams')}">公司团队</a></li>
         <li><a href=":;">学院介绍</a></li>
         <li><a href=":;">学院介绍</a></li>
         <li><a href=":;">学院介绍</a></li>
     </ul>
 </div>
 <div id="topcontrol" title="返回顶部" style="position: fixed; bottom: 80px; right: 30px; opacity: 1; cursor: pointer;"></div>
+<button class="layui-btn layui-btn-sm" id="today"></button>
+<script>
+    function time() {
+        var today=document.getElementById('today');
+        var oDate=new Date();
+        var oF=oDate.getFullYear();
+        var oH=oDate.getHours();
+        var oT=oDate.getMinutes();
+        var oS=oDate.getSeconds();
+        if (oS<10){
+            today.innerHTML="北京时间："+oF+"年"+oH+"点"+oT+'分'+'0'+oS+"秒";
+        }else {
+            today.innerHTML="北京时间："+oF+"年"+oH+"点"+oT+'分'+oS+"秒";
+        }
+    }
+    time();
+    setInterval(function () {
+        time();
+    },800);
+</script>
 <!--头部主体-->
 <script src="__JS__/jquery.min.js"></script>
 <script src="__JS__/scrolltopcontrol.js"></script>

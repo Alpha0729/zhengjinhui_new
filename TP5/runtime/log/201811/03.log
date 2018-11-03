@@ -2323,3 +2323,1798 @@
 [ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\TP5\public/../application/index\view\html\fund.html [ array (
 ) ]
 [ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:13:05+08:00 ] 0.0.0.0 GET /index.php/index/index/index/nav_cat/school.html
+[ info ] localhost/index.php/index/index/index/nav_cat/school.html [运行时间：0.034001s][吞吐率：29.41req/s] [内存消耗：1,260.56kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'nav_cat' => 'school',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:13:07+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,111.41kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index/nav_cat/school.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:13:11+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,111.31kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:13:45+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,111.31kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:13:48+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,260.34kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:14:44+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,110.77kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:16:10+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.028002s][吞吐率：35.71req/s] [内存消耗：1,262.81kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:16:13+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,110.77kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:16:14+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,111.34kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:17:23+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,111.74kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:17:30+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,110.85kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:17:36+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,111.34kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:17:40+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,121.63kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:28:57+08:00 ] 0.0.0.0 GET /index.php/index/html/:;
+[ info ] localhost/index.php/index/html/:; [运行时间：0.026002s][吞吐率：38.46req/s] [内存消耗：1,071.73kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => ':;',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:48:16+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,111.29kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:48:18+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,121.63kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:48:23+08:00 ] 0.0.0.0 GET /index.php/index/html/:;
+[ info ] localhost/index.php/index/html/:; [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,071.74kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => ':;',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:50:52+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.026002s][吞吐率：38.46req/s] [内存消耗：1,122.05kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:50:53+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,111.34kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:50:54+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,121.63kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T15:50:54+08:00 ] 0.0.0.0 GET /index.php/index/html/:;
+[ info ] localhost/index.php/index/html/:; [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,071.74kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => ':;',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:28:20+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.069004s][吞吐率：14.49req/s] [内存消耗：1,121.84kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:28:21+08:00 ] 0.0.0.0 GET /index.php/index/html/:;
+[ info ] localhost/index.php/index/html/:; [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,071.74kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => ':;',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:30:42+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.029001s][吞吐率：34.48req/s] [内存消耗：1,263.65kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:30:43+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：1,221.79kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:30:47+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:45:20+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.032001s][吞吐率：31.25req/s] [内存消耗：1,222.16kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:46:50+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:47:24+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：1,260.81kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:48:23+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.019002s][吞吐率：52.63req/s] [内存消耗：1,106.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:48:43+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,111.33kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:48:51+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：1,259.97kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:48:55+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:52:01+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,122.29kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:52:02+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,106.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:52:05+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,106.52kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:52:21+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,222.36kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:55:05+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.028001s][吞吐率：35.71req/s] [内存消耗：1,222.52kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:55:22+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：1,222.53kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:55:36+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,222.59kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:55:38+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,106.51kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:56:13+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,111.33kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:56:30+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,122.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:56:36+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,106.08kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:56:52+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,222.63kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:57:14+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：1,111.33kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:57:44+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.023002s][吞吐率：43.47req/s] [内存消耗：1,222.39kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:57:45+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,106.28kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:57:46+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,106.52kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:57:51+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,106.52kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T16:58:04+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,106.28kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:30:55+08:00 ] 0.0.0.0 GET /index.php/index/html/add.html
+[ info ] localhost/index.php/index/html/add.html [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：1,111.29kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->add[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:45:46+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.028002s][吞吐率：35.71req/s] [内存消耗：1,111.28kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/add.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:45:47+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:49:00+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.024001s][吞吐率：41.66req/s] [内存消耗：1,111.38kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:49:00+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T17:49:01+08:00 ] 0.0.0.0 GET /index.php/index/html/teams.html
+[ info ] localhost/index.php/index/html/teams.html [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,106.09kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'teams',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/fund.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->teams[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\teams.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T18:34:53+08:00 ] 0.0.0.0 GET /index.php/index/index/index.html
+[ info ] localhost/index.php/index/index/index.html [运行时间：0.028002s][吞吐率：35.71req/s] [内存消耗：1,111.36kb] [文件加载：35]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/html/teams.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Index.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\index\index.html [ array (
+  0 => 'cat',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-11-03T18:34:54+08:00 ] 0.0.0.0 GET /index.php/index/html/fund.html
+[ info ] localhost/index.php/index/html/fund.html [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,122.13kb] [文件加载：36]
+[ info ] [ LANG ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'html',
+    2 => 'fund',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'Phpstorm-d94e29df=efb81adc-b021-46b3-a64a-76aed21dc1fa; _ga=GA1.1.1516192163.1522116405; Hm_lvt_d8bfb560f8d03bbefc9bdecafc4a4bf6=1528336303; pgv_pvi=8091836416; UM_distinctid=166b387907f11d-08262e9f71b7ad-43480420-144000-166b387908035a; CNZZDATA315133=cnzz_eid%3D753001490-1540605126-%26ntime%3D1540605126; bdshare_firstime=1540610298032',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost/index.php/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Html->fund[ G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\application\index\controller\Html.php ]
+[ info ] [ VIEW ] G:\phpStudySetup\PHPTutorial\WWW\zhengjinhui_new.git\trunk\TP5\public/../application/index\view\html\fund.html [ array (
+) ]
+[ info ] [ LOG ] INIT File

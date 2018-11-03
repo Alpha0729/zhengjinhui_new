@@ -14,4 +14,8 @@ class Html extends Controller
     {
         return view();
     }
+    public function teams()  /*私募基金*/
+    {
+        return view();
+    }
 }
