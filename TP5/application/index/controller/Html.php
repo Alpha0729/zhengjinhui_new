@@ -14,8 +14,20 @@ class Html extends Controller
     {
         return view();
     }
+<<<<<<< .mine
+    public function present()  /*私募基金*/
+    {
+        return view();
+    }
+    public function content()  /*私募基金*/
+    {
+        return view();
+    }
+||||||| .r3
+=======
     public function teams()  /*私募基金*/
     {
         return view();
     }
+>>>>>>> .r5
 }
